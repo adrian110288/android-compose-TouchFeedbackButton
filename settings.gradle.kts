@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TouchFeedbackButton"
 include(":app")
+include(":lib")
